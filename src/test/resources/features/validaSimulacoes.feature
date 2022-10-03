@@ -31,12 +31,12 @@ Funcionalidade: Validação de consulta, alteração, deleção e restrições
    Quando envio os dados necessários do cliente "UsuarioSemRestricao"
    """
    {
-    "nome": "Fulano de Tal",
-    "cpf": "31851491066",
-    "email": "email@email.com",
-    "valor": 1200,
-    "parcelas": 3,
-    "seguro": true
+    "nome": "{nome}",
+    "cpf": "{cpf}",
+    "email": "{email}",
+    "valor": {valor},
+    "parcelas": {parcelas},
+    "seguro": {seguro}
    }
    """
    Então recebo o status code 201 ao enviar a simulacao
