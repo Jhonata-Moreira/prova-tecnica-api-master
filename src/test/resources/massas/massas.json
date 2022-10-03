@@ -1,0 +1,186 @@
+{
+  "UsuarioRestrito1": {
+    "nome": "Fulano de Tal",
+    "cpf": "97093236014",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioRestrito2": {
+    "nome": "Fulano de Tal",
+    "cpf": "60094146012",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioRestrito3":{
+    "nome": "Fulano de Tal",
+    "cpf": "84809766080",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioRestrito4": {
+    "nome": "Fulano de Tal",
+    "cpf": "62648716050",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioRestrito5": {
+    "nome": "Fulano de Tal",
+    "cpf": "26276298085",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioRestrito6": {
+    "nome": "Fulano de Tal",
+    "cpf": "01317496094",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioRestrito7": {
+    "nome": "Fulano de Tal",
+    "cpf": "55856777050",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioRestrito8": {
+    "nome": "Fulano de Tal",
+    "cpf": "19626829001",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioRestrito9": {
+    "nome": "Fulano de Tal",
+    "cpf": "24094592008",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioRestrito10": {
+    "nome": "Fulano de Tal",
+    "cpf": "58063164083",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioSemRestricao": {
+    "nome": "Fulano de Tal",
+    "cpf": "31851491066",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioCpfVazio": {
+    "nome": "Fulano de Tal",
+    "cpf": "",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioCpfNulo": {
+    "nome": "Fulano de Tal",
+    "cpf": "null",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioCpfMascarado": {
+    "nome": "Fulano de Tal",
+    "cpf": "891.170.560-80",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioSemNome": {
+    "nome": "",
+    "cpf": "89117056080",
+    "email": "email@email.com",
+    "valor": "1200",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioComDadosVazios": {
+    "nome": "",
+    "cpf": "null",
+    "email": "",
+    "valor": "null",
+    "parcelas": "null",
+    "seguro": "true"
+  },
+  "UsuarioComValorAcima": {
+    "nome": "Ciclano",
+    "cpf": "30544438094",
+    "email": "email@email.com",
+    "valor": "41000",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioComValorMenor": {
+    "nome": "Ciclano",
+    "cpf": "30544438094",
+    "email": "email@email.com",
+    "valor": "999",
+    "parcelas": "3",
+    "seguro": "true"
+  },
+  "UsuarioComParcelaMenor": {
+    "nome": "Ciclano",
+    "cpf": "36053278009",
+    "email": "email@email.com",
+    "valor": "2000",
+    "parcelas": "1",
+    "seguro": "true"
+  },
+  "UsuarioComParcelaMaior": {
+    "nome": "Ciclano",
+    "cpf": "27727328006",
+    "email": "email@email.com",
+    "valor": "2000",
+    "parcelas": "49",
+    "seguro": "true"
+  },
+  "UsuarioSemSeguro": {
+    "nome": "Ciclano",
+    "cpf": "49370040005",
+    "email": "email@email.com",
+    "valor": "1500",
+    "parcelas": "10",
+    "seguro": "false"
+  },
+  "UsuarioAlteracao": {
+    "nome": "Fulano de Tal",
+    "cpf": "31851491066",
+    "email": "teste@email.com",
+    "valor": "5000",
+    "parcelas": "2",
+    "seguro": "true"
+  },
+  "UsuarioSemSimulação": {
+    "nome": "Fulano de Tal",
+    "cpf": "36642926005",
+    "email": "teste@email.com",
+    "valor": "5000",
+    "parcelas": "2",
+    "seguro": "true"
+  }
+}
